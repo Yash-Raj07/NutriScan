@@ -16,7 +16,7 @@ const NearbyRestaurants = () => {
 
     const fetchRestaurants = async (latitude, longitude) => {
         try {
-            const apiKey = 'fsq3w7ZRRnNtIxxnhWx22GDpLRoym98vgXS8T61Vuv64LrU='; // Your API key
+            const apiKey = 'api key'; // Your API key
             const response = await axios.get(
                 'https://api.foursquare.com/v3/places/search',
                 {
