@@ -1,16 +1,14 @@
 
 # NutriScan
+ 
  NutriScan is a generative AI model which analyze food and body
  data to provide personalized health recommendations.
  
-=======
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  It is a comprehensive health and wellness AI model that can help users
+  make informed decisions about their diet and exercise habits.
+ 
+  It creates a personalized plan – suggesting the right amount of
+  calories and a customized diet to fit your needs.
+ 
+  Imagine a smart nutritionist in your pocket. 
 
