@@ -21,7 +21,7 @@ const io = new Server(server, {
   }
 });
 
-// Nutritionix API credentials (replace with your credentials)
+// Nutritionix API credentials
 const NUTRITIONIX_APP_ID = 'your-app-id';
 const NUTRITIONIX_API_KEY = 'your-api-key';
 
